@@ -1,0 +1,79 @@
+#websit_header{
+	color: blue;
+	font-size: 35px;
+	font-weight: bold;
+}
+.websit_header {
+	color: RED;
+	font-size: 30;
+
+}
+
+#big_wrapper{
+	height:0 auto;
+	width: 500px;
+	border:solid 5px #9523a3;
+	padding: 15px;
+	padding-top: 0 auto;
+	margin: 30px;
+	margin-left: 235px;
+
+
+	color: orange;
+	font-size: 16px;
+	font-family: tahoma;
+	font-style:italic;
+
+
+}
+
+height: 35px
+margin: 10px 20px 30px 60px
+margin 0 auto
+
+
+==============websit====================
+
+*{
+	margin: 0;
+	padding: 0 ;
+}
+#big{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#adam{
+	background-color: purple;
+	padding: 20px;
+	
+
+
+}
+
+h1{
+	color: white;
+}
+
+#alwan{
+	background-color: #03A9F4;
+	height: 350px;
+	padding:30px;
+
+
+}
+
+.redColor{
+	color: yellow;
+}
+
+.text_adam{
+	color: white;
+	font-size: 24px;
+	font-family: Verdana;
+
+}
+#footer{
+	background-color:purple; 
+	padding: 15px;
+}

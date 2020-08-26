@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0 ;
+}
+#big{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#adam{
+	background-image: url('images/crop.jpg');
+	background-position: bottom left;
+	background-color: purple;
+	padding: 25;
+	height: 160px;
+
+
+}
+
+h1{
+	color: white;
+}
+
+#alwan{
+	background-image: url('images/afgaj.jpg');
+	background-attachment: fixed;
+	background-position: bottom left;
+	background-color: #03A9F4;
+	height: 350px;
+	padding:30px;
+
+
+}
+
+.redColor{
+	color: yellow;
+}
+
+.text_adam{
+	color: white;
+	font-size: 24px;
+	font-family: Verdana;
+
+}
+#footer{
+	background-color:purple; 
+	padding: 15px;
+}
+
+
+/*border-image: solid 4px white*/
